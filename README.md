@@ -1,6 +1,6 @@
 # Global CO₂ Emission,Trends and Insights
 
-## Table of Contents
+## Table of Contents.
 
 - [Project Overiew](#project-overview)
 - [Data Sources](#data-sources)
